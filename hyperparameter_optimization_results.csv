@@ -1,0 +1,4 @@
+Model,best_params,best_score
+KNN,"{'kneighborsregressor__n_neighbors': 7, 'kneighborsregressor__p': 1, 'kneighborsregressor__weights': 'distance'}",8.908377287695187
+DecisionTree,"{'decisiontreeregressor__max_depth': None, 'decisiontreeregressor__min_samples_split': 10}",10.548896392640213
+RandomForest,"{'randomforestregressor__max_depth': None, 'randomforestregressor__min_samples_leaf': 1, 'randomforestregressor__min_samples_split': 2, 'randomforestregressor__n_estimators': 200}",9.036239727340746

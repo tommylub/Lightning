@@ -1,0 +1,2 @@
+Model Name,fit_time,score_time,test_score,train_score
+KNN,0.746 (+/- 0.024),3.827 (+/- 0.182),0.562 (+/- 0.002),1.000 (+/- 0.000)
